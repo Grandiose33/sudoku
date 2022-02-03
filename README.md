@@ -1,2 +1,3 @@
 # sudoku
-practice python project
+
+practice python project v2.0
