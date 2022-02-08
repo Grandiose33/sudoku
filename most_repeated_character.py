@@ -1,4 +1,4 @@
-sentence = "my dad farted, and it smelled like cat diarrhea"
+sentence = "This is a sample question that is common in interviews"
 frequency = {}
 for character in sentence:
     if character in frequency:
